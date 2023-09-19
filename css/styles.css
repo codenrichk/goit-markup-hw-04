@@ -127,6 +127,8 @@ p {
       rgba(47, 48, 58, 0.4)
     ),
     url(../images/fondotitulo.jpg);
+  max-width: 1600px;
+  margin: auto;
 }
 
 .titulo_div {
